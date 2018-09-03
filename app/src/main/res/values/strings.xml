@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">运营助手</string>
+
+    <string name="pull_refresh_text">下拉刷新</string>
+    <string name="release_refresh_text">释放更新</string>
+    <string name="refreshing_text">加载中...</string>
+
+    <string name="title_activity_login">登录</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_mobile">手机号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="error_invalid_mobile">手机号格式不正确</string>
+    <string name="error_invalid_password">密码格式不正确</string>
+    <string name="error_incorrect_password">登录失败</string>
+    <string name="error_field_required">该项不能为空</string>
+    <string name="title_activity_user">配送员</string>
+    <string name="title_activity_main">菁时光运营助手</string>
+    <string name="tab_text_1">待配送</string>
+    <string name="tab_text_2">配送中</string>
+    <string name="tab_text_3">己完成</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_deliver">配送详情</string>
+    <string name="title_activity_sign">客户签名</string>
+
+    <string name="prompt_password1">请输入当前密码</string>
+    <string name="prompt_password2">请输入新密码</string>
+    <string name="action_update">修改密码</string>
+    <string name="action_logout">退出系统</string>
+</resources>

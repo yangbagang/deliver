@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#de4249</color>
+    <color name="colorPrimaryDark">#b22222</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+
+    <color name="color_666666">#666666</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="black">#000000</color>
+    <color name="black_5">#0D000000</color>
+    <color name="black_9">#17000000</color>
+    <color name="black_10">#19000000</color>
+    <color name="black_15">#26000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_27">#45000000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="black_35">#59000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_45">#73000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_65">#a5000000</color>
+    <color name="black_80">#cc000000</color>
+    <color name="black_85">#D9000000</color>
+    <color name="black_90">#e5000000</color>
+    <color name="black_70">#B2000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_30">#4dffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_70">#b2ffffff</color>
+
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="line_color">@color/black_10</color>
+    <color name="color_f84f21">#F84F21</color>
+    <color name="color_6f6f6f">#6F6F6F</color>
+    <color name="color_cd312f">#CD312F</color>
+
+
+    <color name="color_7dcf2c">#7dcf2c</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+
+
+    <!--开启直播页面相关颜色-->
+    <color name="color_live_bg">#77675d</color>
+    <color name="color_live_word">#d3d9df</color>
+    <color name="color_live_btn">#7bce29</color>
+
+
+    <color name="whitesmoke">#F5F5F5</color><!--烟白色 -->
+    <!--白色半透明-->
+    <color name="translucent_background">#d0ffffff</color>
+
+    <!--下面的部分色调是设计给出的配色参考-->
+    <!--主色调-->
+    <color name="color_de4942">#de4942</color>
+    <color name="color_main">@color/color_de4942</color>
+    <!--辅色-->
+    <color name="color_ff501b">#ff501b</color>
+    <color name="color_7dcf2d">#7dcf2d</color>
+    <color name="color_second_red">@color/color_ff501b</color>
+    <color name="color_second_blue">@color/color_7dcf2d</color>
+    <!--底色-->
+    <color name="color_ecedf3">#ecedf3</color>
+    <color name="color_background">@color/color_ecedf3</color>
+    <!--字体-->
+    <color name="color_4d5359">#4d5359</color>
+    <color name="color_545866">#545866</color>
+    <color name="color_aab1b8">#aab1b8</color>
+    <color name="color_afb6bc">#afb6bc</color>
+    <color name="color_text1">@color/color_4d5359</color>
+    <color name="color_text2">@color/color_545866</color>
+    <color name="color_text3">@color/color_aab1b8</color>
+    <color name="color_text4">@color/color_afb6bc</color>
+    <!--线-->
+    <color name="color_d3d9df">#d3d9df</color>
+    <color name="color_line">@color/color_d3d9df</color>
+    <!--好友通讯录styleable color-->
+    <color name="default_indexBar_textcolor">#8c8c8c</color>
+    <dimen name="default_indexBar_textSize">13sp</dimen>
+    <color name="dafault_indexBar_selected_textColor">#f33737</color>
+    <color name="default_indexListView_rightOverlayColor">#f33737</color>
+
+    <!-- progress button -->
+    <color name="blue_pressed">#ff0099cc</color>
+    <color name="blue_normal">#ff33b5e5</color>
+    <color name="green_complete">#ff99cc00</color>
+    <color name="purple_progress">#ffaa66cc</color>
+    <color name="red_error">#ffff4444</color>
+</resources>
